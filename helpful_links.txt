@@ -1,0 +1,150 @@
+#Databases in AWS
+https://aws.amazon.com/products/databases/
+
+#RDS Multi-AZ failover
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html
+
+#Aurora Storage
+https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
+
+#Aurora failover conditions
+https://aws.amazon.com/rds/aurora/faqs/
+
+#Aurora Backtrack
+https://aws.amazon.com/blogs/aws/amazon-aurora-backtrack-turn-back-time/
+
+#DynamoDB resilience
+https://aws.amazon.com/dynamodb/sla/
+
+#Redshift Federated Query
+https://aws.amazon.com/blogs/big-data/amazon-redshift-federated-query-best-practices-and-performance-considerations/
+
+#Elasticache Redis clusters
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Replication.Redis-RedisCluster.html
+
+#Automation using DMS
+https://aws-quickstart.s3.amazonaws.com/quickstart-aws-dms-automation/doc/aws-database-migration-service-automation-framework.pdf
+
+#Automation using CodeBuild
+https://aws.amazon.com/blogs/devops/enhancing-automated-database-continuous-integration-with-aws-codebuild-and-amazon-rds-database-snapshot/
+
+#6 Rs of cloud migration
+https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
+
+#SCT Sources and destinations
+https://docs.aws.amazon.com/prescriptive-guidance/latest/database-migration-strategy/database-migration-strategy.pdf
+https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html
+
+#DMS sources and destinations
+https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html
+
+#SCT and LOBs
+https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/agents.dw.html#agents.LOBs
+
+#Data migration with DMS
+https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_DMSIntegration.html
+
+#Migrate SQL Server to Aurora
+https://docs.aws.amazon.com/dms/latest/sbs/CHAP_SQLServer2Aurora.Steps.html
+
+#Neptune bulk load
+https://docs.aws.amazon.com/neptune/latest/userguide/bulk-load-data.html
+
+#RDS delayed replication
+https://aws.amazon.com/blogs/database/recover-from-a-disaster-with-delayed-replication-in-amazon-rds-for-mysql
+
+#RDS backups
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ExportSnapshot.html
+
+#Aurora backups
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Backups.html
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Clone.html
+
+#DynamoDB backups
+https://aws.amazon.com/dynamodb/backup-restore/
+
+#Redshift backups
+https://www.sqlshack.com/export-data-from-aws-redshift-to-aws-s3/
+https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-snapshots.html
+
+#Elasticache backups
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/backups.html
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/backups-exporting.html
+
+#Aurora Backtrack operations
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Backtrack.html
+
+#RDS logging and monitoring
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.LoggingAndMonitoring.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.DBInstance.Status.html
+
+#Aurora auditing
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Auditing.html
+
+#DynamoDB monitoring
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/MonitoringDynamoDB.html
+
+#Redshift monitoring
+https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html
+https://docs.aws.amazon.com/redshift/latest/mgmt/metrics.html
+
+#DocumentDB monitoring
+https://docs.aws.amazon.com/documentdb/latest/developerguide/profiling.html
+https://docs.aws.amazon.com/documentdb/latest/developerguide/logging-and-monitoring.html
+
+#RDS and storage management
+https://aws.amazon.com/premiumsupport/knowledge-center/rds-autoscaling-low-free-storage/
+
+#Aurora troubleshooting
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Troubleshooting.html
+
+#DynamoDB troubleshooting
+https://aws.amazon.com/premiumsupport/knowledge-center/dynamodb-high-latency/
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.Errors.html
+
+#DocumentDB troubleshooting
+https://docs.aws.amazon.com/documentdb/latest/developerguide/user_diagnostics.html#user_diagnostics-query_terminating
+https://docs.aws.amazon.com/documentdb/latest/developerguide/user_diagnostics.html#user_diagnostics-query_plan
+https://docs.aws.amazon.com/documentdb/latest/developerguide/user_diagnostics.html#user_diagnostics-cpu_utilization
+
+#DMS storage full
+https://aws.amazon.com/premiumsupport/knowledge-center/dms-replication-instance-storage-full/
+
+#EC2 optimization
+https://aws.amazon.com/blogs/database/best-storage-practices-for-running-production-workloads-on-hosted-databases-with-amazon-rds-or-amazon-ec2/
+
+#Aurora optimization
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Performance.html
+
+#DynamoDB optimization
+https://aws.amazon.com/blogs/database/choosing-the-right-number-of-shards-for-your-large-scale-amazon-dynamodb-table/
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-design.html
+
+#Elasticache optimization
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/CacheNodes.SupportedTypes.html
+https://d0.awsstatic.com/whitepapers/performance-at-scale-with-amazon-elasticache.pdf
+
+#DynamoDB GSI
+https://aws.amazon.com/premiumsupport/knowledge-center/create-gsi-dynamodb/
+https://aws.amazon.com/blogs/database/how-to-use-dynamodb-global-secondary-indexes-to-improve-query-performance-and-reduce-costs/
+https://aws.amazon.com/premiumsupport/knowledge-center/dynamodb-gsi-throttling-table/
+
+#Neptune SSL
+https://docs.aws.amazon.com/neptune/latest/userguide/security-ssl.html
+
+#Elasticache at-rest encryption
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/at-rest-encryption.html#at-rest-encryption-enable
+
+#Audit logging
+https://aws.amazon.com/premiumsupport/knowledge-center/advanced-audit-rds-mysql-cloudwatch/
+
+#AWS Config remediation
+https://docs.aws.amazon.com/config/latest/developerguide/remediation.html
+
+#RBAC vs ABAC
+https://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explained
+
+#VPC Gateway Endpoint policies
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints-ddb.html#vpc-endpoints-policies-ddb
+
